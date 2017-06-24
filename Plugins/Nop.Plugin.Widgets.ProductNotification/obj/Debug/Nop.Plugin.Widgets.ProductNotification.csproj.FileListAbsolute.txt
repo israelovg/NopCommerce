@@ -1,0 +1,13 @@
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.ProductNotification\Views\Configure.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.ProductNotification\Views\PublicInfo.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.ProductNotification\web.config
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.ProductNotification\Description.txt
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.ProductNotification\Nop.Plugin.Widgets.ProductNotification.dll.config
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.ProductNotification\Nop.Plugin.Widgets.ProductNotification.dll
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.ProductNotification\Nop.Plugin.Widgets.ProductNotification.pdb
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.ProductNotification\obj\Debug\Nop.Plugin.Widgets.ProductNotification.csproj.App.config
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.ProductNotification\obj\Debug\Nop.Plugin.Widgets.ProductNotification.csprojResolveAssemblyReference.cache
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.ProductNotification\obj\Debug\Nop.Plugin.Widgets.ProductNotification.dll
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.ProductNotification\obj\Debug\Nop.Plugin.Widgets.ProductNotification.pdb
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.ProductNotification\logo.jpg
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.ProductNotification\Content\product-notification.css

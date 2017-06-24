@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=.\SQLEXPRESS;Initial Catalog=BooksOnline;Integrated Security=True;Persist Security Info=False

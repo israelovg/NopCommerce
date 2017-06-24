@@ -1,0 +1,16 @@
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Description.txt
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\web.config
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\Configure.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_CreateOrUpdateRateByWeight.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\AddRateByWeightPopup.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\EditRateByWeightPopup.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ByWeight.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_FixedRate.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\logo.jpg
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll.config
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.pdb
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csproj.App.config
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csprojResolveAssemblyReference.cache
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.pdb

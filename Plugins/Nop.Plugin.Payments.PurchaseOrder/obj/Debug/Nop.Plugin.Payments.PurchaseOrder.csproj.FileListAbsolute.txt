@@ -1,0 +1,11 @@
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\Configure.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentInfo.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

@@ -1,0 +1,12 @@
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.DiscountNotification\Views\Configure.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.DiscountNotification\Views\PublicInfo.cshtml
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.DiscountNotification\web.config
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.DiscountNotification\Description.txt
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.DiscountNotification\Nop.Plugin.Widgets.DiscountNotification.dll.config
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.DiscountNotification\Nop.Plugin.Widgets.DiscountNotification.dll
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.DiscountNotification\Nop.Plugin.Widgets.DiscountNotification.pdb
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.DiscountNotification\obj\Debug\Nop.Plugin.Widgets.DiscountNotification.csproj.App.config
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.DiscountNotification\obj\Debug\Nop.Plugin.Widgets.DiscountNotification.csprojResolveAssemblyReference.cache
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.DiscountNotification\obj\Debug\Nop.Plugin.Widgets.DiscountNotification.dll
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.DiscountNotification\obj\Debug\Nop.Plugin.Widgets.DiscountNotification.pdb
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.DiscountNotification\logo.jpg

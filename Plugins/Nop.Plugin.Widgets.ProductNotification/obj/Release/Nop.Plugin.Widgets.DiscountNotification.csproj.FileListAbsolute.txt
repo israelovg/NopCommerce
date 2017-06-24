@@ -1,0 +1,2 @@
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.DiscountNotification\obj\Release\Nop.Plugin.Widgets.DiscountNotification.csproj.App.config
+C:\Users\gabi\Downloads\nopCommerce\Plugins\Nop.Plugin.Widgets.DiscountNotification\obj\Release\Nop.Plugin.Widgets.DiscountNotification.csprojResolveAssemblyReference.cache

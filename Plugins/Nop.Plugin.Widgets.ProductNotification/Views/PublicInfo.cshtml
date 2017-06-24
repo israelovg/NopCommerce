@@ -1,0 +1,13 @@
+﻿@model Nop.Plugin.Widgets.ProductNotification.Models.PublicInfoModel
+@{
+    Layout = "";
+    Html.AddCssFileParts("~/Plugins/Widgets.ProductNotification/Content/product-notification.css");
+}
+@using Nop.Web.Framework.UI
+
+@if (!string.IsNullOrEmpty(Model.Text))
+{
+    <div class="product-notification">
+        @Model.Text
+    </div>
+}

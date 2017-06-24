@@ -1,0 +1,4 @@
+C:\Users\gabi\Downloads\nopCommerce\Libraries\Nop.Services\obj\Release\Nop.Services.csproj.App.config
+C:\Users\gabi\Downloads\nopCommerce\Libraries\Nop.Services\obj\Release\Nop.Services.csprojResolveAssemblyReference.cache
+C:\Users\gabi\Downloads\nopCommerce\Libraries\Nop.Services\obj\Release\Nop.Services.dll
+C:\Users\gabi\Downloads\nopCommerce\Libraries\Nop.Services\obj\Release\Nop.Services.pdb

@@ -1,0 +1,1 @@
+C:\Users\gabi\Downloads\nopCommerce\Presentation\Nop.Web\obj\Release\Nop.Web.csproj.App.config

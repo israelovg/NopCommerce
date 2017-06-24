@@ -1,0 +1,43 @@
+﻿@{
+    Layout = "";
+}
+@model Nop.Plugin.Widgets.ProductNotification.Models.ConfigurationModel
+@using Nop.Web.Framework;
+
+@Html.Action("StoreScopeConfiguration", "Setting", new { area = "Admin" })
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="panel-group">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                @T("Plugins.Widgets.ProductNotification.Text")
+            </div>
+            <div class="panel-body">
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.OverrideStoreCheckboxFor(model => model.Text_OverrideForStore, model => model.Text, Model.ActiveStoreScopeConfiguration)
+                        @Html.NopLabelFor(model => model.Text)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.NopTextAreaFor(model => model.Text)
+                        @Html.ValidationMessageFor(model => model.Text)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div class="form-group">
+                    <div class="col-md-3">
+                        &nbsp;
+                    </div>
+                    <div class="col-md-9">
+                        <input type="submit" name="save" class="btn bg-blue" value="@T("Admin.Common.Save")" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,9 @@
+﻿Group: Widgets
+FriendlyName: Product Notification
+SystemName: Widgets.ProductNotification
+Version: 1.11
+SupportedVersions: 3.90
+Author: Gabi Israeli
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.ProductNotification.dll
+Description: This plugin allows you to add product  notification
